@@ -5,7 +5,7 @@ from collections import Counter
 
 BOT_TOKEN  = "8210013955:AAHPAmR4NYQmUVVnrlgjfit06C7ZamBM-R4"
 CHAT_ID    = "7807756451"
-THRESHOLD  = 8.5
+THRESHOLD  =7.5
 MAX_ALERTS = 5
 
 def now_dk():
