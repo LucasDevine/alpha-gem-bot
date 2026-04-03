@@ -6,7 +6,7 @@ from collections import Counter
 
 BOT_TOKEN = "8210013955:AAHPAmR4NYQmUVVnrlgjfit06C7ZamBM-R4"
 CHAT_ID   = "7807756451"
-THRESHOLD  = 7.5
+THRESHOLD  = 6.0
 MAX_ALERTS = 5
 
 
